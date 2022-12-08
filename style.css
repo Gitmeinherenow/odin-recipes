@@ -1,0 +1,58 @@
+/*p {
+    color: white;
+    background-color: black;
+    font-size: 24px;
+    text-align: center;
+}
+*/
+body {
+    color: white;
+    background-color: black;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.wrapper {
+    background: url('https://www.allrecipes.com/thmb/yet04HUIIVCMZfMRPEF8tsCBMkE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/26286-QuickAndEasyChickenSpaghetti-ddmfs-4X3-0844-f75ed374aa354c18b7cf0d0024356cb2.jpg') no-repeat;
+    background-size: 100vw; 
+    float: left;
+    height: 100vw;
+    width: 100vw;
+} 
+
+.myclass {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.wrapper-main {
+    background: url(https://media.istockphoto.com/id/1155240408/photo/table-filled-with-large-variety-of-food.jpg?s=612x612&w=0&k=20&c=uJEbKmR3wOxwdhQR_36as5WeP6_HDqfU-QmAq63OVEE=) no-repeat;
+    background-size: 100vw; 
+    float: left;
+    height: 200vw;
+    width: 100vw;
+} 
+
+a {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+#biggie {
+    font-size: 50px;
+    color: white;
+    background-color: red;
+    padding: 1em 1.5em;
+    text-decoration:wavy;
+}
