@@ -49,6 +49,11 @@ a {
     text-transform: uppercase;
   }
 
+a:hover {
+    background-color: white;
+    color: black;
+}
+
 #biggie {
     font-size: 50px;
     color: white;
